@@ -2,7 +2,7 @@
 Upload Images to S3 storage using node js and save the Urls to mongodb database using Mongoose.
 
 
-#Get your Acces Key from AWS s3 that you can get from your aws account and they are used to identify the bucket to upload images.
+#Get your Access Key from AWS s3 , that you can get from your aws account and they are used to identify the bucket to upload images.
  
 
 Change the bucket url in the main_controller.js.
@@ -19,6 +19,11 @@ There is a folder named uploads.
 Time is taken as per image size.
 
 /get_images   gives all the results from the mongo db database and you can make a get request on that route.
+
+
+Thanks 
+
+Good Luck 
 
 
 
