@@ -1,5 +1,5 @@
 # Image-Upload
-Upoload Images to S3 storage using node js and save the Urls to mongodb database using Mongoose.
+Upload Images to S3 storage using node js and save the Urls to mongodb database using Mongoose.
 
 
 #Get your Acces Key from AWS s3 that you can get from your aws account and they are used to identify the bucket to upload images.
